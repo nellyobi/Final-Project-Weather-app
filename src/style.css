@@ -38,7 +38,7 @@ body {
   .weather-app {
     padding: 20px;
     border: 1px solid #ffff; 
-    background: linear-gradient(179.4deg, rgb(253, 240, 233) 2.2%, rgb(255, 194, 203) 96.2%);
+    background: linear-gradient(to top, #dfe9f3 0%, white 100%);
     border-radius: 5px;
   }
   
